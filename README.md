@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ersinagirman&label=Profile%20views&color=0e75b6&style=flat" alt="ersinagirman" /> </p>
 
-- 🌱 I’m currently learning **Unity Game Developing and Mobile Developing**
+- 🌱 I’m currently learning **Unity Game Developing and Web Developing**
 
 - 📫 How to reach me **ersinagirmans@gmail.com**
 
